@@ -1,0 +1,4 @@
+com\mycompany\protectionproxy\DBInterface.class
+com\mycompany\protectionproxy\ConcreteImpl.class
+com\mycompany\protectionproxy\DBProxy.class
+com\mycompany\protectionproxy\ProtectionProxy.class

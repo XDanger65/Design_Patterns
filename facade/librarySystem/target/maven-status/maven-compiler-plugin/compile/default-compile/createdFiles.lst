@@ -1,0 +1,6 @@
+Subsystems\FineManagement.class
+com\mycompany\librarysystem\LibrarySystem.class
+Subsystems\BookCatalog.class
+Subsystems\Membership.class
+Subsystems\Notification.class
+com\mycompany\librarysystem\LibraryFacade.class

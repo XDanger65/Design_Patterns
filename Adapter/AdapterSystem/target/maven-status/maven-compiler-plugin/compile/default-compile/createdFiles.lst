@@ -1,0 +1,5 @@
+com\mycompany\adaptersystem\AdapterSystem.class
+com\mycompany\adaptersystem\Tank.class
+com\mycompany\adaptersystem\RocketLauncher.class
+com\mycompany\adaptersystem\Ihero.class
+com\mycompany\adaptersystem\RocketLauncherToTankAdapter.class

@@ -1,0 +1,7 @@
+com\mycompany\decorator2\Cheese.class
+com\mycompany\decorator2\Olives.class
+com\mycompany\decorator2\Pizza.class
+com\mycompany\decorator2\PizzaDecorator.class
+com\mycompany\decorator2\Decorator2.class
+com\mycompany\decorator2\ItalianPizza.class
+com\mycompany\decorator2\MexicanPizza.class
