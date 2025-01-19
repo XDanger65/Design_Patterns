@@ -1,0 +1,7 @@
+com\mycompany\commandpattern\CommandPattern.class
+com\mycompany\commandpattern\LightCommand.class
+com\mycompany\commandpattern\Light.class
+com\mycompany\commandpattern\SmartHomeController.class
+com\mycompany\commandpattern\Thermostat.class
+com\mycompany\commandpattern\ThermostatCommand.class
+com\mycompany\commandpattern\Command.class
